@@ -15,7 +15,7 @@ Create the two game algorithms. One will be completely random, and the other wil
 
 Moves will be recorded. Depending on the outcome of the game, it'll be saved in the corresponding csv (separated to minimize the amount of games the algorithm must sift through)
 
-## Step 3
+### Step 3
 
 Optimize everything. Considering the monumental amount of possible games, it's crucial to have the algorithm compare as little information as possible. From there, when satisfactory, it could be deployed and the code modified for real games against players.
 
