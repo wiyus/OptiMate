@@ -4,7 +4,7 @@ Portmanteau of optimal and checkmate. The goal of this project is to create an a
 
 ## How to use
 
-Simply use compile.bat, which will compile the Java files in ./bin. Then, simply use run.bat. 
+Simply use ***compile.bat***, which will compile the Java files in ./bin. Then, simply use ***run.bat***. 
 
 Sorry Linux users, for now, you can compile them manually and run the OptiMate class in your shell
 
