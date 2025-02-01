@@ -2,6 +2,13 @@
 
 Portmanteau of optimal and checkmate. The goal of this project is to create an algorithm which, from as many randomly generated games as possible, learns the perfect response to any given chess scenario
 
+## How to use
+
+Simply use compile.bat, which will compile the Java files in ./bin. Then, simply use run.bat. (Sorry Linux users, for now, you can run it in bash)
+
+
+## The project
+
 ### Step 1
 
 Recreate the game of chess in Java. This includes the board, piece logic, checkmate logic, and rules such as stalemates, three-fold repetition and the fifty move rule, so as to minimize the amount of games the algorithm has to compute.
